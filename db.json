@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Wynies smieci",
+      "day": "jutro",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
